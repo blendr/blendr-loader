@@ -1,6 +1,6 @@
 {
   "name": "blendr-loader",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "blendr-loader",
   "main": "gulpfile.babel.js",
   "scripts": {
